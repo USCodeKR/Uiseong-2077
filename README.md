@@ -1,1 +1,10 @@
-헬로우
+- Gounsa: 백엔드 폴더
+    - GounsaExtermination.py: 실제로 배포된 서버 파일
+    - graph.png: 테스트할 때 생성한 그래프 구조 이미지
+    - init_game_test.py: 비스니스 로직 테스트용 파일
+    - map.json: 게임에서 사용한 맵 정보
+    - models.py: GounsaExtermination.py에서 사용한 모델들을 정의한 파일
+    - monster.json: 요괴 정보 json
+    - progress_graph.png: 전체 그래프 이미지 파일
+- 의성2077-발표자료.pdf: 발표 자료
+- 의성2077.docx: 프로젝트 정리 자료
